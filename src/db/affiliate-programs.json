@@ -1,0 +1,290 @@
+[
+  {
+    "program": "HubSpot",
+    "commission": "30%",
+    "cookie_duration": "180-370 days",
+    "url": "https://www.hubspot.com"
+  },
+  {
+    "program": "PureVPN",
+    "commission": "35%",
+    "cookie_duration": "90 days",
+    "url": "https://www.purevpn.com"
+  },
+  {
+    "program": "ConvertKit",
+    "commission": "30%",
+    "cookie_duration": "90 days",
+    "url": "https://www.convertkit.com"
+  },
+  {
+    "program": "NordVPN",
+    "commission": "30%",
+    "cookie_duration": "30 days",
+    "url": "https://www.nordvpn.com"
+  },
+  {
+    "program": "ClickFunnels",
+    "commission": "40%",
+    "cookie_duration": "30 days",
+    "url": "https://affiliates.clickfunnels.com"
+  },
+  {
+    "program": "Teachable",
+    "commission": "30%",
+    "cookie_duration": "90 days",
+    "url": "https://www.teachable.com"
+  },
+  {
+    "program": "SEMrush",
+    "commission": "40%",
+    "cookie_duration": "30 days",
+    "url": "https://www.semrush.com"
+  },
+  {
+    "program": "Elegant Themes",
+    "commission": "50%",
+    "cookie_duration": "180 days",
+    "url": "https://www.elegantthemes.com"
+  },
+  {
+    "program": "TubeBuddy",
+    "commission": "50%",
+    "cookie_duration": "30 days",
+    "url": "https://www.tubebuddy.com"
+  },
+  {
+    "program": "MailerLite",
+    "commission": "30%",
+    "cookie_duration": "90 days",
+    "url": "https://www.mailerlite.com"
+  },
+  {
+    "program": "Podia",
+    "commission": "30%",
+    "cookie_duration": "Unknown",
+    "url": "https://www.podia.com"
+  },
+  {
+    "program": "Benchmark",
+    "commission": "25%",
+    "cookie_duration": "30 days",
+    "url": "https://www.benchmarkemail.com"
+  },
+  {
+    "program": "Wishpond",
+    "commission": "30%",
+    "cookie_duration": "90 days",
+    "url": "https://www.wishpond.com"
+  },
+  {
+    "program": "Instapage",
+    "commission": "50% first year, 30% lifetime",
+    "cookie_duration": "30 days",
+    "url": "https://www.instapage.com"
+  },
+  {
+    "program": "Landingi",
+    "commission": "30%",
+    "cookie_duration": "30 days",
+    "url": "https://www.landingi.com"
+  },
+  {
+    "program": "Kinsta",
+    "commission": "10%",
+    "cookie_duration": "60 days",
+    "url": "https://www.kinsta.com"
+  },
+  {
+    "program": "LiveChat",
+    "commission": "20%",
+    "cookie_duration": "120 days",
+    "url": "https://www.livechat.com"
+  },
+  {
+    "program": "Private Internet Access",
+    "commission": "33%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.privateinternetaccess.com"
+  },
+  {
+    "program": "Drip",
+    "commission": "30%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.drip.com"
+  },
+  {
+    "program": "Moosend",
+    "commission": "30%",
+    "cookie_duration": "90 days",
+    "url": "https://www.moosend.com"
+  },
+  {
+    "program": "Tidio",
+    "commission": "30%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.tidio.com"
+  },
+  {
+    "program": "Mangools",
+    "commission": "30%",
+    "cookie_duration": "30 days",
+    "url": "https://www.mangools.com"
+  },
+  {
+    "program": "Cloudways",
+    "commission": "7% lifetime, $30 per sale",
+    "cookie_duration": "90 days",
+    "url": "https://www.cloudways.com"
+  },
+  {
+    "program": "BitStarz",
+    "commission": "40%",
+    "cookie_duration": "30 days",
+    "url": "https://www.bitstarz.com"
+  },
+  {
+    "program": "Sprout Social",
+    "commission": "15%",
+    "cookie_duration": "30 days",
+    "url": "https://www.sproutsocial.com"
+  },
+  {
+    "program": "Zapendo",
+    "commission": "48%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.zapendo.com"
+  },
+  {
+    "program": "Paybis",
+    "commission": "20%",
+    "cookie_duration": "1 year",
+    "url": "https://www.paybis.com"
+  },
+  {
+    "program": "Coinbase",
+    "commission": "50%",
+    "cookie_duration": "30 days",
+    "url": "https://www.coinbase.com"
+  },
+  {
+    "program": "Hubstaff",
+    "commission": "30% for 12 months",
+    "cookie_duration": "Not listed",
+    "url": "https://www.hubstaff.com"
+  },
+  {
+    "program": "Serpstat",
+    "commission": "30%",
+    "cookie_duration": "30 days",
+    "url": "https://www.serpstat.com"
+  },
+  {
+    "program": "Leadpages",
+    "commission": "30%",
+    "cookie_duration": "30 days",
+    "url": "https://www.leadpages.com"
+  },
+  {
+    "program": "Marketing Boost",
+    "commission": "40%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.marketingboost.com"
+  },
+  {
+    "program": "Netpeak Software",
+    "commission": "30%",
+    "cookie_duration": "7 days",
+    "url": "https://www.netpeaksoftware.com"
+  },
+  {
+    "program": "ConvertKit",
+    "commission": "30%",
+    "cookie_duration": "90 days",
+    "url": "https://www.convertkit.com"
+  },
+  {
+    "program": "SEMrush (BeRush)",
+    "commission": "40%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.berush.com"
+  },
+  {
+    "program": "Marketing Boost",
+    "commission": "40%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.marketingboost.com"
+  },
+  {
+    "program": "Instapage",
+    "commission": "50% first year, 30% lifetime",
+    "cookie_duration": "Not listed",
+    "url": "https://www.instapage.com"
+  },
+  {
+    "program": "Mailerlite",
+    "commission": "30%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.mailerlite.com"
+  },
+  {
+    "program": "Podia",
+    "commission": "30%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.podia.com"
+  },
+  {
+    "program": "BitStarz",
+    "commission": "40%",
+    "cookie_duration": "30 days",
+    "url": "https://www.bitstarz.com"
+  },
+  {
+    "program": "Private Internet Access",
+    "commission": "33%",
+    "cookie_duration": "Not listed",
+    "url": "https://www.privateinternetaccess.com"
+  },
+  {
+    "program": "Cloudways",
+    "commission": "7% lifetime, $30 per sale",
+    "cookie_duration": "90 days",
+    "url": "https://www.cloudways.com"
+  },
+  {
+    "program": "Moosend",
+    "commission": "30%",
+    "cookie_duration": "90 days",
+    "url": "https://www.moosend.com"
+  },
+  {
+    "program": "Elegant Themes",
+    "commission": "50%",
+    "cookie_duration": "180 days",
+    "url": "https://www.elegantthemes.com"
+  },
+  {
+    "program": "Sprout Social",
+    "commission": "15%",
+    "cookie_duration": "30 days",
+    "url": "https://www.sproutsocial.com"
+  },
+  {
+    "program": "LiveChat",
+    "commission": "20%",
+    "cookie_duration": "120 days",
+    "url": "https://www.livechat.com"
+  },
+  {
+    "program": "Kinsta",
+    "commission": "10%",
+    "cookie_duration": "60 days",
+    "url": "https://www.kinsta.com"
+  },
+  {
+    "program": "Landingi",
+    "commission": "30%",
+    "cookie_duration": "30 days",
+    "url": "https://www.landingi.com"
+  }
+]
