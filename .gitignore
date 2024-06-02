@@ -38,6 +38,8 @@ next-env.d.ts
 
 # Database stuff
 *.db*
+# Drizzle stuff
+drizzle/*
 
 # Allow .env.example
 !.env.example
