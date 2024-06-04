@@ -1,288 +1,404 @@
 [
   {
-    "program": "HubSpot",
-    "commission": "30%",
-    "cookie_duration": "180-370 days",
-    "url": "https://www.hubspot.com"
+    "status": "live",
+    "logo": "/logos/convertkit-long.svg",
+    "name": "ConvertKit",
+    "commission": "30% recurring",
+    "cookie_duration": "90 days",
+    "url": "https://www.convertkit.com",
+    "company_summary": "ConvertKit is an email marketing platform specifically designed for creators, including bloggers, podcasters, and YouTubers. It offers tools to grow and nurture audiences through automated email sequences, landing pages, and subscriber management.",
+    "program_description": "ConvertKit's affiliate program offers a 30% recurring commission for the lifetime of each referred customer. Affiliates are provided with various marketing assets, including banners, email swipe copy, and tutorials to help promote the service effectively."
   },
   {
-    "program": "PureVPN",
+    "status": "live",
+    "logo": "",
+    "name": "ClickFunnels",
+    "commission": "40% recurring",
+    "cookie_duration": "30 days",
+    "url": "https://affiliates.clickfunnels.com",
+    "company_summary": "ClickFunnels is a popular online sales funnel builder that helps businesses create marketing funnels and landing pages to convert visitors into leads and customers. It simplifies the process of building sales funnels with a drag-and-drop editor and a wide range of templates.",
+    "program_description": "The ClickFunnels affiliate program provides a 40% recurring commission on all sales. Affiliates receive access to numerous marketing materials, including banners, pre-written emails, and training on how to promote ClickFunnels effectively. The program also offers bonuses and incentives for high performers."
+  },
+  {
+    "status": "live",
+    "logo": "",
+    "name": "Teachable",
+    "commission": "30% recurring",
+    "cookie_duration": "90 days",
+    "url": "https://www.teachable.com",
+    "company_summary": "Teachable is an online platform that allows users to create and sell online courses. It provides features for course creation, student management, payment processing, and analytics. It's popular among educators, coaches, and professionals who want to monetize their knowledge.",
+    "program_description": "Teachable's affiliate program offers a 30% recurring commission for each referred customer. Affiliates are given a range of promotional tools, including banners, pre-written email copy, and detailed reporting to track performance."
+  },
+  {
+    "status": "live",
+    "logo": "",
+    "name": "TubeBuddy",
+    "commission": "Up to 50% recurring",
+    "cookie_duration": "Not listed",
+    "url": "https://www.tubebuddy.com",
+    "company_summary": "TubeBuddy is a browser extension and mobile app that integrates directly with YouTube to help content creators optimize their videos and grow their channels. It offers tools for keyword research, video SEO, thumbnail generation, and more.",
+    "program_description": "The TubeBuddy affiliate program offers up to 50% recurring commission. Affiliates receive access to a dashboard with tracking tools, promotional banners, and support from the TubeBuddy team to maximize their promotional efforts."
+  },
+  {
+    "status": "live",
+    "logo": "",
+    "name": "Elegant Themes",
+    "commission": "50% recurring on yearly renewals",
+    "cookie_duration": "180 days",
+    "url": "https://www.elegantthemes.com",
+    "company_summary": "Elegant Themes is a leading provider of premium WordPress themes and plugins, including the popular Divi theme and visual page builder. It serves a large community of web developers and designers.",
+    "program_description": "The Elegant Themes affiliate program offers a 50% recurring commission on yearly renewals. Affiliates have access to a variety of marketing materials, detailed analytics, and support to help them succeed. The program is known for its high conversion rates and generous payouts."
+  },
+  {
+    "status": "live",
+    "logo": "",
+    "name": "SEMrush (BeRush)",
+    "commission": "40% recurring",
+    "cookie_duration": "Not listed",
+    "url": "https://www.berush.com",
+    "company_summary": "SEMrush is an all-in-one digital marketing toolkit used for SEO, content marketing, competitor analysis, and paid search campaigns. It helps marketers and businesses improve their online visibility and drive more traffic to their websites.",
+    "program_description": "The BeRush affiliate program offers a 40% recurring commission. Affiliates are provided with comprehensive promotional materials, including banners, landing pages, and email templates. The program also features detailed reporting and regular updates on new features and promotions."
+  },
+  {
+    "status": "live",
+    "logo": "",
+    "name": "HubSpot",
+    "commission": "30% recurring",
+    "cookie_duration": "180-370 days",
+    "url": "https://www.hubspot.com",
+    "company_summary": "HubSpot is a comprehensive CRM platform that provides tools for marketing, sales, customer service, and content management. It is widely used by businesses to attract, engage, and delight customers through inbound marketing strategies.",
+    "program_description": "HubSpot's affiliate program offers a 30% recurring commission. Affiliates gain access to a variety of marketing resources, including banners, email templates, and co-branded content. The program also features a lengthy cookie duration, enhancing the chances of earning commissions."
+  },
+  {
+    "status": "live",
+    "logo": "",
+    "name": "Kinsta",
+    "commission": "Up to $500 per referral + 10% monthly recurring",
+    "cookie_duration": "60 days",
+    "url": "https://www.kinsta.com",
+    "company_summary": "Kinsta is a premium managed WordPress hosting provider known for its speed, security, and expert support. It leverages Google Cloud Platform to deliver top-tier hosting services to businesses and developers.",
+    "program_description": "Kinsta's affiliate program offers up to $500 per referral plus 10% monthly recurring commissions for the lifetime of the customer. Affiliates are provided with high-quality marketing materials, in-depth reporting, and dedicated support."
+  },
+  {
+    "status": "live",
+    "logo": "",
+    "name": "Instapage",
+    "commission": "50% first year, 30% lifetime",
+    "cookie_duration": "30 days",
+    "url": "https://www.instapage.com",
+    "company_summary": "Instapage is a landing page creation platform that allows users to build customized landing pages optimized for conversion. It offers features like A/B testing, heatmaps, and a drag-and-drop editor.",
+    "program_description": "The Instapage affiliate program offers a 50% commission for the first year and a 30% lifetime commission. Affiliates have access to various promotional materials, including banners, email templates, and a detailed analytics dashboard."
+  },
+  {
+    "status": "live",
+    "logo": "",
+    "name": "MailerLite",
+    "commission": "30% recurring",
+    "cookie_duration": "90 days",
+    "url": "https://www.mailerlite.com",
+    "company_summary": "MailerLite is an email marketing service that offers features like a drag-and-drop editor, landing page builder, and email automation. It is designed to be user-friendly and affordable, making it accessible for small businesses and individual creators.",
+    "program_description": "The MailerLite affiliate program provides a 30% recurring commission. Affiliates receive a range of marketing materials, detailed reporting tools, and support from the MailerLite team to help maximize their promotional efforts."
+  },
+  {
+    "status": "pending",
+    "logo": "",
+    "name": "PureVPN",
     "commission": "35%",
     "cookie_duration": "90 days",
     "url": "https://www.purevpn.com"
   },
   {
-    "program": "ConvertKit",
-    "commission": "30%",
-    "cookie_duration": "90 days",
-    "url": "https://www.convertkit.com"
-  },
-  {
-    "program": "NordVPN",
+    "status": "pending",
+    "logo": "",
+    "name": "NordVPN",
     "commission": "30%",
     "cookie_duration": "30 days",
     "url": "https://www.nordvpn.com"
   },
   {
-    "program": "ClickFunnels",
-    "commission": "40%",
-    "cookie_duration": "30 days",
-    "url": "https://affiliates.clickfunnels.com"
-  },
-  {
-    "program": "Teachable",
-    "commission": "30%",
-    "cookie_duration": "90 days",
-    "url": "https://www.teachable.com"
-  },
-  {
-    "program": "SEMrush",
+    "status": "pending",
+    "logo": "",
+    "name": "SEMrush",
     "commission": "40%",
     "cookie_duration": "30 days",
     "url": "https://www.semrush.com"
   },
   {
-    "program": "Elegant Themes",
+    "status": "pending",
+    "logo": "",
+    "name": "Elegant Themes",
     "commission": "50%",
     "cookie_duration": "180 days",
     "url": "https://www.elegantthemes.com"
   },
   {
-    "program": "TubeBuddy",
-    "commission": "50%",
-    "cookie_duration": "30 days",
-    "url": "https://www.tubebuddy.com"
-  },
-  {
-    "program": "MailerLite",
+    "status": "pending",
+    "logo": "",
+    "name": "MailerLite",
     "commission": "30%",
     "cookie_duration": "90 days",
     "url": "https://www.mailerlite.com"
   },
   {
-    "program": "Podia",
+    "status": "pending",
+    "logo": "",
+    "name": "Podia",
     "commission": "30%",
     "cookie_duration": "Unknown",
     "url": "https://www.podia.com"
   },
   {
-    "program": "Benchmark",
+    "status": "pending",
+    "logo": "",
+    "name": "Benchmark",
     "commission": "25%",
     "cookie_duration": "30 days",
     "url": "https://www.benchmarkemail.com"
   },
   {
-    "program": "Wishpond",
+    "status": "pending",
+    "logo": "",
+    "name": "Wishpond",
     "commission": "30%",
     "cookie_duration": "90 days",
     "url": "https://www.wishpond.com"
   },
   {
-    "program": "Instapage",
+    "status": "pending",
+    "logo": "",
+    "name": "Instapage",
     "commission": "50% first year, 30% lifetime",
     "cookie_duration": "30 days",
     "url": "https://www.instapage.com"
   },
   {
-    "program": "Landingi",
+    "status": "pending",
+    "logo": "",
+    "name": "Landingi",
     "commission": "30%",
     "cookie_duration": "30 days",
     "url": "https://www.landingi.com"
   },
   {
-    "program": "Kinsta",
+    "status": "pending",
+    "logo": "",
+    "name": "Kinsta",
     "commission": "10%",
     "cookie_duration": "60 days",
     "url": "https://www.kinsta.com"
   },
   {
-    "program": "LiveChat",
+    "status": "pending",
+    "logo": "",
+    "name": "LiveChat",
     "commission": "20%",
     "cookie_duration": "120 days",
     "url": "https://www.livechat.com"
   },
   {
-    "program": "Private Internet Access",
+    "status": "pending",
+    "logo": "",
+    "name": "Private Internet Access",
     "commission": "33%",
     "cookie_duration": "Not listed",
     "url": "https://www.privateinternetaccess.com"
   },
   {
-    "program": "Drip",
+    "status": "pending",
+    "logo": "",
+    "name": "Drip",
     "commission": "30%",
     "cookie_duration": "Not listed",
     "url": "https://www.drip.com"
   },
   {
-    "program": "Moosend",
+    "status": "pending",
+    "logo": "",
+    "name": "Moosend",
     "commission": "30%",
     "cookie_duration": "90 days",
     "url": "https://www.moosend.com"
   },
   {
-    "program": "Tidio",
+    "status": "pending",
+    "logo": "",
+    "name": "Tidio",
     "commission": "30%",
     "cookie_duration": "Not listed",
     "url": "https://www.tidio.com"
   },
   {
-    "program": "Mangools",
+    "status": "pending",
+    "logo": "",
+    "name": "Mangools",
     "commission": "30%",
     "cookie_duration": "30 days",
     "url": "https://www.mangools.com"
   },
   {
-    "program": "Cloudways",
+    "status": "pending",
+    "logo": "",
+    "name": "Cloudways",
     "commission": "7% lifetime, $30 per sale",
     "cookie_duration": "90 days",
     "url": "https://www.cloudways.com"
   },
   {
-    "program": "BitStarz",
+    "status": "pending",
+    "logo": "",
+    "name": "BitStarz",
     "commission": "40%",
     "cookie_duration": "30 days",
     "url": "https://www.bitstarz.com"
   },
   {
-    "program": "Sprout Social",
+    "status": "pending",
+    "logo": "",
+    "name": "Sprout Social",
     "commission": "15%",
     "cookie_duration": "30 days",
     "url": "https://www.sproutsocial.com"
   },
   {
-    "program": "Zapendo",
+    "status": "pending",
+    "logo": "",
+    "name": "Zapendo",
     "commission": "48%",
     "cookie_duration": "Not listed",
     "url": "https://www.zapendo.com"
   },
   {
-    "program": "Paybis",
+    "status": "pending",
+    "logo": "",
+    "name": "Paybis",
     "commission": "20%",
     "cookie_duration": "1 year",
     "url": "https://www.paybis.com"
   },
   {
-    "program": "Coinbase",
+    "status": "pending",
+    "logo": "",
+    "name": "Coinbase",
     "commission": "50%",
     "cookie_duration": "30 days",
     "url": "https://www.coinbase.com"
   },
   {
-    "program": "Hubstaff",
+    "status": "pending",
+    "logo": "",
+    "name": "Hubstaff",
     "commission": "30% for 12 months",
     "cookie_duration": "Not listed",
     "url": "https://www.hubstaff.com"
   },
   {
-    "program": "Serpstat",
+    "status": "pending",
+    "logo": "",
+    "name": "Serpstat",
     "commission": "30%",
     "cookie_duration": "30 days",
     "url": "https://www.serpstat.com"
   },
   {
-    "program": "Leadpages",
+    "status": "pending",
+    "logo": "",
+    "name": "Leadpages",
     "commission": "30%",
     "cookie_duration": "30 days",
     "url": "https://www.leadpages.com"
   },
   {
-    "program": "Marketing Boost",
+    "status": "pending",
+    "logo": "",
+    "name": "Marketing Boost",
     "commission": "40%",
     "cookie_duration": "Not listed",
     "url": "https://www.marketingboost.com"
   },
   {
-    "program": "Netpeak Software",
+    "status": "pending",
+    "logo": "",
+    "name": "Netpeak Software",
     "commission": "30%",
     "cookie_duration": "7 days",
     "url": "https://www.netpeaksoftware.com"
   },
   {
-    "program": "ConvertKit",
+    "status": "pending",
+    "logo": "",
+    "name": "ConvertKit",
     "commission": "30%",
     "cookie_duration": "90 days",
     "url": "https://www.convertkit.com"
   },
   {
-    "program": "SEMrush (BeRush)",
-    "commission": "40%",
-    "cookie_duration": "Not listed",
-    "url": "https://www.berush.com"
-  },
-  {
-    "program": "Marketing Boost",
+    "status": "pending",
+    "logo": "",
+    "name": "Marketing Boost",
     "commission": "40%",
     "cookie_duration": "Not listed",
     "url": "https://www.marketingboost.com"
   },
   {
-    "program": "Instapage",
-    "commission": "50% first year, 30% lifetime",
-    "cookie_duration": "Not listed",
-    "url": "https://www.instapage.com"
-  },
-  {
-    "program": "Mailerlite",
-    "commission": "30%",
-    "cookie_duration": "Not listed",
-    "url": "https://www.mailerlite.com"
-  },
-  {
-    "program": "Podia",
+    "status": "pending",
+    "logo": "",
+    "name": "Podia",
     "commission": "30%",
     "cookie_duration": "Not listed",
     "url": "https://www.podia.com"
   },
   {
-    "program": "BitStarz",
+    "status": "pending",
+    "logo": "",
+    "name": "BitStarz",
     "commission": "40%",
     "cookie_duration": "30 days",
     "url": "https://www.bitstarz.com"
   },
   {
-    "program": "Private Internet Access",
+    "status": "pending",
+    "logo": "",
+    "name": "Private Internet Access",
     "commission": "33%",
     "cookie_duration": "Not listed",
     "url": "https://www.privateinternetaccess.com"
   },
   {
-    "program": "Cloudways",
+    "status": "pending",
+    "logo": "",
+    "name": "Cloudways",
     "commission": "7% lifetime, $30 per sale",
     "cookie_duration": "90 days",
     "url": "https://www.cloudways.com"
   },
   {
-    "program": "Moosend",
+    "status": "pending",
+    "logo": "",
+    "name": "Moosend",
     "commission": "30%",
     "cookie_duration": "90 days",
     "url": "https://www.moosend.com"
   },
   {
-    "program": "Elegant Themes",
-    "commission": "50%",
-    "cookie_duration": "180 days",
-    "url": "https://www.elegantthemes.com"
-  },
-  {
-    "program": "Sprout Social",
+    "status": "pending",
+    "logo": "",
+    "name": "Sprout Social",
     "commission": "15%",
     "cookie_duration": "30 days",
     "url": "https://www.sproutsocial.com"
   },
   {
-    "program": "LiveChat",
+    "status": "pending",
+    "logo": "",
+    "name": "LiveChat",
     "commission": "20%",
     "cookie_duration": "120 days",
     "url": "https://www.livechat.com"
   },
   {
-    "program": "Kinsta",
-    "commission": "10%",
-    "cookie_duration": "60 days",
-    "url": "https://www.kinsta.com"
-  },
-  {
-    "program": "Landingi",
+    "status": "pending",
+    "logo": "",
+    "name": "Landingi",
     "commission": "30%",
     "cookie_duration": "30 days",
     "url": "https://www.landingi.com"
