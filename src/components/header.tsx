@@ -1,44 +1,37 @@
-import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 import Link from "next/link";
+import { Coffee } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Session } from "next-auth";
+import { SignOutButton } from "@/components/auth/sign-out-button";
+import ThemeToggle from "@/components/theme-toggle";
+import { cn } from "@/lib/utils";
 
-const navItems = [
-  {
-    label: "Home",
-    href: "/",
-  }
-];
-
-export default function Header() {
+export default function Header({ session }: { session: Session | null }) {
   return (
-    <>
-      <header>
-        <div className="flex justify-between max-w-6xl mx-auto p-4 ">
-          <div>
-            <h1>
-              <Link href="/">
-                Next.js Starter
-              </Link>
-            </h1>
-          </div>
-          <div className="flex gap-6">
-            <nav>
-              <ul className="flex gap-3">
-                {navItems.map((item) => (
-                  <li key={item.label}>
-                    <a href="/">{item.label}</a>
-                  </li>
-                ))}
-              </ul>
-            </nav>
-            <SignedOut>
-              <SignInButton />
-            </SignedOut>
-            <SignedIn>
-              <UserButton />
-            </SignedIn>
-          </div>
+    <header className="container absolute top-0 left-0 right-0 z-50">
+      <div className="flex h-20 items-center justify-between py-6">
+        <div className="flex items-center space-x-2">
+          <Coffee className="h-6 w-6" />
+          <span className="text-lg font-medium">RocketKit</span>
         </div>
-      </header>
-    </>
+        <nav className="flex items-center space-x-4">
+          <ThemeToggle />
+          {session?.user ? (
+            <SignOutButton />
+          ) : (
+            <Button asChild variant="ghost">
+              <Link
+                href="/signin"
+                className={cn(
+                  "text-sm font-medium transition-colors hover:text-primary"
+                )}
+              >
+                Sign In
+              </Link>
+            </Button>
+          )}
+        </nav>
+      </div>
+    </header>
   );
 }

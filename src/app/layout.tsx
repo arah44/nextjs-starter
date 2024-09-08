@@ -1,38 +1,33 @@
-import type { Metadata } from "next";
-import { Inter as FontSans } from "next/font/google";
 import "./globals.css";
-import { cn } from "@/lib/utils";
-import { ClerkProvider } from "@clerk/nextjs";
+import { Inter } from "next/font/google";
+import { Providers } from "./providers";
+import { auth } from "@/app/auth";
 import Header from "@/components/header";
+import { DebugSheet } from "@/components/debug-sheet";
 
-export const metadata: Metadata = {
-  title: "Next js Starter",
-  description: "Created by @arah44",
+const inter = Inter({ subsets: ["latin"] });
+
+export const metadata = {
+  title: "RocketKit",
+  description: "Your launchpad for stellar web projects!",
 };
 
-const fontSans = FontSans({
-  subsets: ["latin"],
-  variable: "--font-sans",
-});
-
-export default function RootLayout({
+export default async function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
+
+  const session = await auth();
+
   return (
-    <ClerkProvider>
-      <html lang="en">
-        <body
-          className={cn(
-            "min-h-screen bg-background font-sans antialiased",
-            fontSans.variable
-          )}
-        >
-          <Header />
+    <html lang="en">
+      <body className={inter.className}>
+        <Providers>
           {children}
-        </body>
-      </html>
-    </ClerkProvider>
+          <DebugSheet session={session} />
+        </Providers>
+      </body>
+    </html>
   );
 }
